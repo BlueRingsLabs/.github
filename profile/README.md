@@ -1,3 +1,3 @@
 <div align="center">
-<img src="deepratai.jpg" alt="DeepRat AI Banner" width="800" />
+<img src="blueringslabs.jpg" alt="Blue Rings Labs Banner" width="100%" />
 </div>
